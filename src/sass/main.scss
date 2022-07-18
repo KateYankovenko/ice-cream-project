@@ -1,0 +1,30 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+@import './base/reset';
+
+@import './utils/vars';
+@import './utils/common';
+@import './utils/visually-hidden';
+@import './utils/mixin';
+@import './utils/placeholder';
+
+@import './components/container';
+@import './components/section';
+@import './components/buttons';
+@import './components/mobile-menu';
+@import './components/modal';
+@import './components/header';
+@import './components/hero';
+@import './components/products';
+@import './components/about';
+@import './components/advantages';
+@import './components/gallery';
+@import './components/customer-reviews';
+@import './components/contacts';
+@import './components/footer';
+@import './components/franchise-modal';
+@import './components/map-modal';
+
